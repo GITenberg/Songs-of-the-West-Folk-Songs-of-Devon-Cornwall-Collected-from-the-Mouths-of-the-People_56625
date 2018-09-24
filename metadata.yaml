@@ -1,5 +1,8 @@
 _repo: Songs-of-the-West-Folk-Songs-of-Devon-Cornwall-Collected-from-the-Mouths-of-the-People_56625
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56625-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Baring-Gould, S. (Sabine)
@@ -8,7 +11,7 @@ creator:
     - Gould, Sabine Baring
     - Baring-Gould, Sabine
     birthdate: 1834
-    deathdate: &id001 1924
+    deathdate: 1924
     gutenberg_agent_id: '1766'
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
@@ -21,10 +24,12 @@ creator:
   editor:
     agent_name: Sharp, Cecil J. (Cecil James)
     birthdate: 1859
-    deathdate: *id001
+    deathdate: 1924
     gutenberg_agent_id: '4718'
     url: http://www.gutenberg.org/2009/agents/4718
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56625#Songs-of-the-West-Folk-Songs-of-Devon-Cornwall-Collected-from-the-Mouths-of-the-People
 gutenberg_issued: '2018-02-22'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,41 @@
+_repo: Songs-of-the-West-Folk-Songs-of-Devon-Cornwall-Collected-from-the-Mouths-of-the-People_56625
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, S. Baring
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: &id001 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+  - agent_name: Sheppard, H. Fleetwood
+    gutenberg_agent_id: '48954'
+    url: http://www.gutenberg.org/2009/agents/48954
+  - agent_name: Bussell, F. W.
+    gutenberg_agent_id: '48955'
+    url: http://www.gutenberg.org/2009/agents/48955
+  editor:
+    agent_name: Sharp, Cecil J. (Cecil James)
+    birthdate: 1859
+    deathdate: *id001
+    gutenberg_agent_id: '4718'
+    url: http://www.gutenberg.org/2009/agents/4718
+description: ''
+gutenberg_issued: '2018-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Songs of the West
+
+  Folk Songs of Devon & Cornwall Collected from the Mouths of the People'
+url: http://www.gutenberg.org/ebooks/56625
